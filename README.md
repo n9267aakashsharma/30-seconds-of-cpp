@@ -212,8 +212,11 @@
 <li><a href="vector/size.md"><code>size</code></a></li>
 <li><a href="vector/sort.md"><code>sort</code></a></li>
 <li><a href="vector/swap.md"><code>swap</code></a></li>
+ 
 
 </ol>
+
+<p>Also make sure you learn the fundamentals of these data structures as well, like creating node using strucutres also a good knowledge of ponter will also help you to write good code.</p>
 </details>
 
 ## :speaking_head: Community
